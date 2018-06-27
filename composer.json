@@ -10,8 +10,7 @@
         }
     ],
     "require": {
-        "igdr/doctrine-specification": "dev-master",
-        "symfony/symfony": "~4"
+        "igdr/doctrine-specification": "dev-master"
     },
     "autoload": {
         "psr-4": {
