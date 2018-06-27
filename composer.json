@@ -10,13 +10,17 @@
         }
     ],
     "require": {
-        "igdr/doctrine-specification": "~0.9",
-        "symfony/symfony": "~3"
+        "igdr/doctrine-specification": "dev-master",
+        "symfony/symfony": "~4"
     },
     "autoload": {
         "psr-4": {
             "Igdr\\DoctrineSpecificationBundle\\": "src/"
         }
+    },
+    "repositories": {
+        "type": "vcs",
+        "url": "git@github.com:DeRain/doctrine-specification.git"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
