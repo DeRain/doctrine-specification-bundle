@@ -20,7 +20,7 @@
     },
     "repositories": {
         "type": "vcs",
-        "url": "git@github.com:DeRain/doctrine-specification.git"
+        "url": "https://github.com/DeRain/doctrine-specification.git"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
